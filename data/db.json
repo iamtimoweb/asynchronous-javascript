@@ -1,0 +1,133 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": " Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis, enim?",
+            "author": "Jamie Rednap"
+        },
+        {
+            "id": 2,
+            "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora, architecto",
+            "author": "Craig Bellamie"
+        },
+        {
+            "id": 3,
+            "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cupiditate, iste.",
+            "author": "Chris Hartwell"
+        },
+        {
+            "id": 4,
+            "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolores, accusantium.",
+            "author": "Maison Greenwood"
+        },
+        {
+            "id": 5,
+            "title": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta, consequatur.",
+            "author": "Frank Luigi"
+        },
+        {
+            "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, itaque?",
+            "author": "Peter Otwell",
+            "id": 6
+        },
+        {
+            "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reprehenderit, cum?",
+            "author": "Ronald koeman",
+            "id": 7
+        },
+        {
+            "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Culpa, voluptatum.",
+            "author": "Kyazze Denilson",
+            "id": 8
+        },
+        {
+            "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam, nesciunt?.",
+            "author": "Cengiz Atay",
+            "id": 9
+        },
+        {
+            "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, nam!",
+            "author": "Eysan Atay",
+            "id": 10
+        }
+    ],
+    "students": [
+        {
+            "id": 1,
+            "name": "Kabuye Peter",
+            "age": 16
+        },
+        {
+            "name": "Kizza Deo",
+            "age": 16,
+            "id": 2
+        },
+        {
+            "name": "Okello Rodney",
+            "age": 20,
+            "id": 3
+        },
+        {
+            "name": "Mabirizi Michael",
+            "age": 19,
+            "id": 4
+        },
+        {
+            "name": "Luqman Muteefu",
+            "age": 21,
+            "id": 5
+        },
+        {
+            "name": "Lugya Muhammad",
+            "age": 23,
+            "id": 6
+        },
+        {
+            "name": "Mugabi Timothy Emmauel",
+            "age": 29,
+            "id": 7
+        },
+        {
+            "name": "Kuteesa Priscillar",
+            "age": 30,
+            "id": 8
+        },
+        {
+            "name": "Muwanguzi David Newton",
+            "age": 37,
+            "id": 9
+        },
+        {
+            "name": "kisakye Mary Frida",
+            "age": 35,
+            "id": 10
+        }
+    ],
+    "songs": [
+        {
+            "id": 1,
+            "title": "All i have",
+            "artist": "Jennifer lopez"
+        },
+        {
+            "title": "21 Questions",
+            "artist": "50 Cent",
+            "id": 2
+        },
+        {
+            "title": "Lollipop",
+            "artist": "Lil wayne",
+            "id": 3
+        },
+        {
+            "title": "Baliwa",
+            "artist": "Jose Chameleone",
+            "id": 4
+        },
+        {
+            "title": "Funtula",
+            "artist": "Bobi & Bebe",
+            "id": 5
+        }
+    ]
+}
